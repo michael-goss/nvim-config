@@ -16,6 +16,7 @@ return {
 					"c",
 					"cpp",
 					"lua",
+					"svelte",
 					"markdown",
 					"markdown_inline",
 				},
