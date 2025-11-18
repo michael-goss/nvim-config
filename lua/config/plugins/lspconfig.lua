@@ -178,6 +178,8 @@ return {
 				ts_ls = {},
 				clangd = {},
 				svelte = {},
+				jsonls = {},
+				cssls = {},
 			}
 
 			local ensure_installed = vim.tbl_keys(servers or {})

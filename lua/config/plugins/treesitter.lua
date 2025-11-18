@@ -17,6 +17,8 @@ return {
 					"cpp",
 					"lua",
 					"svelte",
+					"python",
+					"json",
 					"markdown",
 					"markdown_inline",
 				},
